@@ -1,18 +1,4 @@
----
-nav:
-  title: DebounceSelect for Ant Design
-  path: /debounce-select
----
-
-## DebounceSelect
-
-Demo:
-
-<code src="./DebounceSelect/demos/index.tsx" />
-
-<API></API>
-
-```
-Note: Other than that, try using any Antd Select props like 'placeholder'.
-```
-[Antd Select props](https://ant-design.gitee.io/components/select-cn/#API)
+**Links**
+[HomePage](https://github.com/xunziheng/antd-debounce-select)
+<br />
+<img src="https://raw.githubusercontent.com/xunziheng/antd-debounce-select/main/src/DebounceSelect/demos/demo.gif" alt="Demo">

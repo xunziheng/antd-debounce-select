@@ -1,33 +1,18 @@
-# antd-debounce-select
+---
+nav:
+  title: DebounceSelect for Ant Design
+  path: /debounce-select
+---
 
-## Getting Started
+## DebounceSelect
 
-Install dependencies,
+Demo:
 
-```bash
-$ npm i
+<code src="./DebounceSelect/demos/index.tsx" />
+
+<API></API>
+
 ```
-
-Start the dev server,
-
-```bash
-$ npm start
+Note: Other than that, try using any Antd Select props like 'placeholder'.
 ```
-
-Build documentation,
-
-```bash
-$ npm run docs:build
-```
-
-Run test,
-
-```bash
-$ npm test
-```
-
-Build library via `father-build`,
-
-```bash
-$ npm run build
-```
+[Antd Select props](https://ant-design.gitee.io/components/select-cn/#API)
